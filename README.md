@@ -59,5 +59,60 @@ It enhances accessibility for all device types and user needs
 
 It encourages return usage and positive word-of-mouth
 
+
+## 🎨 Figma Design Properties
+📘 Color Styles
+Primary Color: #FF5A5F (Airbnb red)
+
+Secondary Color: #008489 (teal blue)
+
+Background Color: #FFFFFF (white)
+
+Text Primary: #484848 (dark gray)
+
+Text Secondary: #767676 (medium gray)
+
+Border/Line: #EBEBEB (light gray)
+
+Accent: #FFB400 (amber/yellow for icons or highlights)
+
+🔤 Typography
+Font Family: Circular Std (or fallback: Arial, sans-serif)
+
+Font Weights:
+
+Light: 300
+
+Regular: 400
+
+Medium: 500
+
+Bold: 700
+
+Font Sizes:
+
+Headings: 32px, 24px, 18px
+
+Body Text: 16px
+
+Captions / Labels: 14px, 12px
+
+(Note: These values are based on common Airbnb-style UI kits. Adjust based on the actual Figma file provided.)
+
+🧩 Why Identifying Design Properties Is Important
+Identifying the design properties of a mockup in Figma is critical because:
+
+🎯 It ensures consistency across the UI
+
+⚙️ It allows developers to translate visual design into code precisely
+
+📏 It enables scalable and responsive layout decisions
+
+🤝 It improves collaboration between designers and developers
+
+⏱️ It reduces iteration cycles by minimizing visual guesswork
+
+
+
 ## Author
 Andrew Laryea
