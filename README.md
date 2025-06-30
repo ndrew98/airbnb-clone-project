@@ -142,6 +142,21 @@ Scrum Master	- Facilitates agile ceremonies (daily stand-ups, sprint reviews, re
 - Removes blockers and ensures team productivity
 - Coaches team on agile practices
 
+## 🧩 UI Component Patterns
+This section outlines the planned reusable UI components that will form the foundation of the AirBnB Clone interface. These components will ensure consistency, scalability, and maintainability across the application.
+
+🔧 Planned Components
+Component	Description
+Navbar	- A responsive top navigation bar that includes branding, search input, login/signup buttons, and user avatar when logged in. It remains sticky across pages and adapts for mobile views.
+Property Card	- A reusable card component for listing properties. It includes a thumbnail image, price per night, rating, location, and a short description. Designed for use in grid or list views.
+Footer	- A consistent footer for all pages containing navigation links, terms and policies, social icons, and contact details. It maintains layout integrity on all screen sizes.
+Search Filter Bar	- A horizontal filter bar allowing users to specify location, dates, guests, and price range. This component interacts with the property listing dynamically.
+Booking Summary Panel	- A side panel (usually on the listing detail page) summarizing price, dates selected, and a "Book Now" button. Validates inputs before checkout.
+Modal Component	- Reusable modal (popup) component used for login, registration, booking confirmation, or alerts.
+Button Variants	- Standardized primary, secondary, and icon buttons used throughout the application for interactions.
+
+These components will be styled using a shared design system derived from the Figma mockups, ensuring brand consistency and responsiveness.
+
 
 
 ## Author
