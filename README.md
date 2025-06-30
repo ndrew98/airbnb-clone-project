@@ -113,6 +113,36 @@ Identifying the design properties of a mockup in Figma is critical because:
 ⏱️ It reduces iteration cycles by minimizing visual guesswork
 
 
+## 👥 Project Roles and Responsibilities
+This project adopts a collaborative structure based on agile principles. Each role is defined with specific responsibilities to ensure smooth execution and delivery of the AirBnB Clone.
+
+# Role	Key Responsibilities
+Project Manager	- Oversees project timelines and deliverables
+- Coordinates between team members
+- Ensures that the project remains within scope and budget
+Frontend Developers	- Build responsive user interfaces
+- Translate Figma designs into code using HTML, CSS, JavaScript, and frameworks like React
+- Handle client-side logic and API integration
+Backend Developers	- Design and implement RESTful APIs
+- Manage server-side logic, authentication, and database integration (e.g., Flask, Express(Nodejs), MySQL)
+- Ensure data security and integrity
+Designers (UI/UX)	- Create user-friendly wireframes and mockups in Figma
+- Define design systems, color palettes, and typography
+- Collaborate with frontend team to ensure design consistency
+QA/Testers	- Write and run test cases for all app components
+- Identify bugs and track issues
+- Perform regression, unit, and integration testing
+DevOps Engineers	- Set up deployment pipelines and manage cloud infrastructure
+- Monitor system performance and handle CI/CD
+- Ensure high system availability and backup processes
+Product Owner	- Defines project vision and business goals
+- Prioritizes features in the product backlog
+- Acts as a liaison between stakeholders and the development team
+Scrum Master	- Facilitates agile ceremonies (daily stand-ups, sprint reviews, retrospectives)
+- Removes blockers and ensures team productivity
+- Coaches team on agile practices
+
+
 
 ## Author
 Andrew Laryea
